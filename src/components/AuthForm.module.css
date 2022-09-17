@@ -1,0 +1,14 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+.hero {
+ background-color: antiquewhite;
+ padding-top: 50px;
+ height: 200px;
+ width: 200px;
+ margin-top: 200px;
+ margin-right: 10%;
+ margin-left: 40%;
+}
